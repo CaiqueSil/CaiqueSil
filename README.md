@@ -117,5 +117,12 @@
 
 ### 📊 Estatísticas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CaiqueSil&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/CaiqueSil)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueSil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/CaiqueSil)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=CaiqueSil&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=CaiqueSil&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CaiqueSil&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=CaiqueSil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
